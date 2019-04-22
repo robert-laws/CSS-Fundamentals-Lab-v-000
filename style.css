@@ -16,3 +16,7 @@ header nav a {
 #featured-property {
   text-align: center;
 }
+
+#featured-property p {
+  width: 50%;
+}
