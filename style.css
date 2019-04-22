@@ -10,4 +10,5 @@ header {
 
 header nav a {
   background-color: gray;
+  padding: 0 10px;
 }
