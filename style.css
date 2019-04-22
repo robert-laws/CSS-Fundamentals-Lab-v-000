@@ -16,11 +16,10 @@ header nav a {
 #featured-property {
   margin: auto;
   text-align: center;
-  width: 40%;
 }
 
-#details {
-
+#featured-property p {
+  width: 800px;
 }
 
 #details div {
