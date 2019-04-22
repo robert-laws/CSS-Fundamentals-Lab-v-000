@@ -20,11 +20,12 @@ header nav a {
 }
 
 #details {
-  background-color: red;
+  
   height: 150px;
 }
 
 #details div {
+  background-color: red;
   float: left;
   width: 25%;
   text-align: center;
