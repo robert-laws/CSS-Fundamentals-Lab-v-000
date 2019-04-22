@@ -21,6 +21,7 @@ header nav a {
 
 #details {
   background-color: red;
+  height: 150px;
 }
 
 #details div {
