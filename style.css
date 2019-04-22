@@ -7,3 +7,7 @@ body {
 header {
   text-align: center;
 }
+
+header nav a { 
+  background-color: gray;
+}
