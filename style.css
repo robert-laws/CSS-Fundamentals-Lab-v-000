@@ -25,4 +25,5 @@ header nav a {
 
 #details div {
   width: 25%;
+  float: right;
 }
