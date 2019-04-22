@@ -19,6 +19,6 @@ header nav a {
   width: 40%;
 }
 
-#featured-property p {
-
+#details {
+  background-color: red;
 }
