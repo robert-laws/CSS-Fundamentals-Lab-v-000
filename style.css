@@ -18,6 +18,10 @@ header nav a {
   text-align: center;
 }
 
+#featured-property figcaption {
+  font-size: 12px;
+}
+
 #featured-property p {
   width: 800px;
   text-align: center;
