@@ -12,3 +12,7 @@ header nav a {
   background-color: lightgray;
   padding: 0 10px;
 }
+
+#featured-property {
+  text-align: center;
+}
